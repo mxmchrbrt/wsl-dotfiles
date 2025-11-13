@@ -1,4 +1,4 @@
-# Here is a quick and simple efficient wsl conf under Debian for me 
-Just Launch it : 
+# Autoinstaller
+
 git clone https://github.com/mxmchrbrt/wsl-dotfiles
 && cd wsl-dotfiles && ./wsl.sh
