@@ -7,4 +7,3 @@ sudo apt install fish
 sudo apt update && sudo apt upgrade && sudo apt install wget tmux vim python3 gcc ranger git
 sudo echo /bin/fish | sudo tee -a /etc/shells
 chsh -s /bin/fish
-exit
